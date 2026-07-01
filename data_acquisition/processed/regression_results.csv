@@ -1,0 +1,26 @@
+model,parameter,coefficient,r2,nobs,note
+Pooled OLS,const,4893.196994398453,0.034349803386913735,1107,
+Pooled OLS,roa,-26791.273013053502,0.034349803386913735,1107,
+Pooled OLS,der,1.5082948675702623,0.034349803386913735,1107,
+Pooled OLS,beta,8263.864892319756,0.034349803386913735,1107,
+Fixed Effects,,,0.0,0,ERROR: Singular matrix
+Random Effects,roa,-0.0,0.0,1107,
+Random Effects,der,-0.0,0.0,1107,
+Random Effects,beta,-0.0,0.0,1107,
+GMM (lagged DV),,,0.0,0,"ERROR: 
+The model cannot be estimated. The included effects have fully absorbed
+one or more of the variables. This occurs when one or more of the dependent
+variable is perfectly explained using the effects included in the model.
+
+The following variables or variable combinations have been fully absorbed
+or have become perfectly collinear after effects are removed:
+
+          roa
+          beta
+
+Set drop_absorbed=True to automatically drop absorbed variables.
+"
+FE Sharia,roa,-0.0,0.0,1091,
+FE Sharia,der,-0.0,0.0,1091,
+FE Sharia,beta,-0.0,0.0,1091,
+FE Non-Sharia,,,0.0,0,"ERROR: exog does not have full column rank. If you wish to proceed with model estimation irrespective of the numerical accuracy of coefficient estimates, you can set check_rank=False."

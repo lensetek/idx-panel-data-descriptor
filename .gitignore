@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Confidential
+.env
+*.secret
+
+# Large data (optional - add if you want to track)
+# data_acquisition/raw/
+# data_acquisition/processed/
+
+# Temp
+*.tmp
+*.log

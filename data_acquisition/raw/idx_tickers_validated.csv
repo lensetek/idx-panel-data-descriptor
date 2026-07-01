@@ -1,0 +1,99 @@
+ticker,yahoo_ticker,name,sector,industry,marketCap,currency
+BBRI,BBRI.JK,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,402035044253696,IDR
+BMRI,BMRI.JK,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,355600005332992,IDR
+BBCA,BBCA.JK,PT Bank Central Asia Tbk,Financial Services,Banks - Regional,688106911039488,IDR
+BBNI,BBNI.JK,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks - Regional,115496074608640,IDR
+BDMN,BDMN.JK,PT Bank Danamon Indonesia Tbk,Financial Services,Banks - Regional,36455351058432,IDR
+BNGA,BNGA.JK,PT Bank CIMB Niaga Tbk,Financial Services,Banks - Regional,38560187023360,IDR
+BNLI,BNLI.JK,PT Bank Permata Tbk,Financial Services,Banks - Regional,83578830454784,IDR
+NISP,NISP.JK,PT Bank OCBC NISP Tbk,Financial Services,Banks - Regional,26501816778752,IDR
+MAYA,MAYA.JK,PT Bank Mayapada Internasional Tbk,Financial Services,Banks - Regional,4893389094912,IDR
+BNII,BNII.JK,PT Bank Maybank Indonesia Tbk,Financial Services,Banks - Regional,14023596703744,IDR
+AGRO,AGRO.JK,PT Bank Raya Indonesia Tbk,Financial Services,Banks - Regional,3281051189248,IDR
+BJBR,BJBR.JK,PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,Financial Services,Banks - Regional,7891082280960,IDR
+BJTM,BJTM.JK,PT Bank Pembangunan Daerah Jawa Timur Tbk,Financial Services,Banks - Regional,7582826102784,IDR
+BSIM,BSIM.JK,PT Bank Sinarmas Tbk,Financial Services,Banks - Regional,13604151623680,IDR
+BTPN,BTPN.JK,PT Bank SMBC Indonesia Tbk,Financial Services,Banks - Regional,22569405120512,IDR
+INPC,INPC.JK,PT Bank Artha Graha Internasional Tbk,Financial Services,Banks - Regional,2507703058432,IDR
+MEGA,MEGA.JK,PT Bank Mega Tbk,Financial Services,Banks - Regional,46958995570688,IDR
+SDRA,SDRA.JK,PT Bank Woori Saudara Indonesia 1906 Tbk,Financial Services,Banks - Regional,3085359906816,IDR
+NOBU,NOBU.JK,PT Bank Nationalnobu Tbk,Financial Services,Banks - Regional,3111032717312,IDR
+PNBN,PNBN.JK,PT Bank Pan Indonesia Tbk,Financial Services,Banks - Regional,21062888718336,IDR
+UNVR,UNVR.JK,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,67416688164864,IDR
+HMSP,HMSP.JK,PT Hanjaya Mandala Sampoerna Tbk,Consumer Defensive,Tobacco,76769931558912,IDR
+GGRM,GGRM.JK,PT Gudang Garam Tbk,Consumer Defensive,Tobacco,30785409122304,IDR
+ICBP,ICBP.JK,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,79300975919104,IDR
+INDF,INDF.JK,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,57950815125504,IDR
+MYOR,MYOR.JK,PT Mayora Indah Tbk,Consumer Defensive,Packaged Foods,40051043991552,IDR
+ROTI,ROTI.JK,PT Nippon Indosari Corpindo Tbk,Consumer Defensive,Packaged Foods,3429588008960,IDR
+SKLT,SKLT.JK,PT Sekar Laut Tbk,Consumer Defensive,Packaged Foods,1079180132352,IDR
+ULTJ,ULTJ.JK,PT Ultrajaya Milk Industry & Trading Company Tbk,Consumer Defensive,Beverages - Non-Alcoholic,13569618870272,IDR
+DLTA,DLTA.JK,PT Delta Djakarta Tbk,Consumer Defensive,Beverages - Brewers,1525255503872,IDR
+MLBI,MLBI.JK,PT Multi Bintang Indonesia Tbk,Consumer Defensive,Beverages - Brewers,13274100793344,IDR
+STTP,STTP.JK,PT Siantar Top Tbk,Consumer Defensive,Packaged Foods,13100000477184,IDR
+CEKA,CEKA.JK,PT Wilmar Cahaya Indonesia Tbk.,Consumer Defensive,Packaged Foods,1231650029568,IDR
+ADES,ADES.JK,PT Akasha Wira International Tbk,Consumer Defensive,Beverages - Non-Alcoholic,19968007602176,IDR
+CLEO,CLEO.JK,PT Sariguna Primatirta Tbk,Consumer Defensive,Beverages - Non-Alcoholic,8976000352256,IDR
+BUDI,BUDI.JK,PT Budi Starch & Sweetener Tbk,Consumer Defensive,Packaged Foods,916220477440,IDR
+ALTO,ALTO.JK,PT Tri Banyan Tirta Tbk,Consumer Defensive,Beverages - Non-Alcoholic,39453667328,IDR
+PANI,PANI.JK,PT Pantai Indah Kapuk Dua Tbk,Real Estate,Real Estate - Development,105078748872704,IDR
+ADRO,ADRO.JK,PT Alamtri Resources Indonesia Tbk,Energy,Thermal Coal,65089113686016,IDR
+PTBA,PTBA.JK,PT Bukit Asam (Persero) Tbk,Energy,Thermal Coal,26367877971968,IDR
+ANTM,ANTM.JK,PT Antam (Persero) Tbk,Basic Materials,Gold,62720296615936,IDR
+ITMG,ITMG.JK,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,24917995159552,IDR
+HRUM,HRUM.JK,PT Harum Energy Tbk,Energy,Thermal Coal,9269732704256,IDR
+INDY,INDY.JK,PT. Indika Energy Tbk,Energy,Thermal Coal,9364845887488,IDR
+MEDC,MEDC.JK,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,26161459494912,IDR
+PGAS,PGAS.JK,PT Perusahaan Gas Negara (Persero) Tbk,Utilities,Utilities - Regulated Gas,33089659076608,IDR
+ELSA,ELSA.JK,PT Elnusa Tbk,Energy,Oil & Gas Equipment & Services,3904697532416,IDR
+SMMT,SMMT.JK,PT Golden Eagle Energy Tbk,Energy,Thermal Coal,6027999707136,IDR
+TLKM,TLKM.JK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,240826835795968,IDR
+EXCL,EXCL.JK,PT XLSMART Telecom Sejahtera Tbk,Communication Services,Telecom Services,43133677076480,IDR
+JSMR,JSMR.JK,PT Jasa Marga (Persero) Tbk,Industrials,Infrastructure Operations,19160780242944,IDR
+ISAT,ISAT.JK,PT Indosat Ooredoo Hutchison Tbk,Communication Services,Telecom Services,57890203238400,IDR
+TOWR,TOWR.JK,PT Sarana Menara Nusantara Tbk.,Real Estate,Real Estate Services,20723324157952,IDR
+TBIG,TBIG.JK,PT Tower Bersama Infrastructure Tbk,Communication Services,Telecom Services,32194286321664,IDR
+BALI,BALI.JK,PT Bali Towerindo Sentra Tbk,Communication Services,Telecom Services,4819876052992,IDR
+ASII,ASII.JK,PT Astra International Tbk,Industrials,Conglomerates,184293557010432,IDR
+KBLM,KBLM.JK,PT Kabelindo Murni Tbk,Industrials,Electrical Equipment & Parts,324799987712,IDR
+BOLT,BOLT.JK,PT Garuda Metalindo Tbk,Industrials,Tools & Accessories,1769531113472,IDR
+INDS,INDS.JK,PT Indospring Tbk,Consumer Cyclical,Auto Parts,1601249214464,IDR
+GJTL,GJTL.JK,PT. Gajah Tunggal Tbk,Consumer Cyclical,Auto Parts,3832904417280,IDR
+CTRA,CTRA.JK,PT Ciputra Development Tbk,Real Estate,Real Estate - Development,10287310700544,IDR
+PWON,PWON.JK,PT Pakuwon Jati Tbk,Real Estate,Real Estate - Diversified,11558304350208,IDR
+BSDE,BSDE.JK,PT Bumi Serpong Damai Tbk,Real Estate,Real Estate - Development,11293233774592,IDR
+LPKR,LPKR.JK,PT Lippo Karawaci Tbk,Healthcare,Medical Care Facilities,4323516350464,IDR
+SMRA,SMRA.JK,PT Summarecon Agung Tbk,Real Estate,Real Estate - Development,4457313599488,IDR
+TIFA,TIFA.JK,PT KDB Tifa Finance Tbk,Financial Services,Credit Services,781486850048,IDR
+BKSL,BKSL.JK,PT Sentul City Tbk,Real Estate,Real Estate - Development,9559407067136,IDR
+LPCK,LPCK.JK,PT Lippo Cikarang Tbk,Real Estate,Real Estate - Development,2474918543360,IDR
+SMGR,SMGR.JK,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,9429762179072,IDR
+WTON,WTON.JK,PT Wijaya Karya Beton Tbk,Basic Materials,Building Materials,601367183360,IDR
+WSKT,WSKT.JK,PT Waskita Karya (Persero) Tbk,,,5818974994432,IDR
+WSBP,WSBP.JK,PT Waskita Beton Precast Tbk,Basic Materials,Building Materials,797428285440,IDR
+TKIM,TKIM.JK,PT Pabrik Kertas Tjiwi Kimia Tbk,Basic Materials,Paper & Paper Products,16733577412608,IDR
+INKP,INKP.JK,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,38296881201152,IDR
+INRU,INRU.JK,PT Toba Pulp Lestari Tbk,Basic Materials,Paper & Paper Products,819441172480,IDR
+TINS,TINS.JK,PT TIMAH Tbk,Basic Materials,Other Industrial Metals & Mining,24726539862016,IDR
+BRMS,BRMS.JK,PT Bumi Resources Minerals Tbk,Basic Materials,Other Industrial Metals & Mining,67489203486720,IDR
+KLBF,KLBF.JK,PT Kalbe Farma Tbk.,Healthcare,Drug Manufacturers - General,34615377002496,IDR
+KAEF,KAEF.JK,PT Kimia Farma Tbk,Healthcare,Medical Distribution,2337967439872,IDR
+DVLA,DVLA.JK,PT Darya-Varia Laboratoria Tbk,Healthcare,Drug Manufacturers - Specialty & Generic,1691199995904,IDR
+TSPC,TSPC.JK,PT Tempo Scan Pacific Tbk,Industrials,Conglomerates,11184463937536,IDR
+SIDO,SIDO.JK,PT Industri Jamu dan Farmasi Sido Muncul Tbk,Consumer Defensive,Packaged Foods,10773282684928,IDR
+MERK,MERK.JK,PT Merck Tbk,Healthcare,Drug Manufacturers - Specialty & Generic,1639680049152,IDR
+PYFA,PYFA.JK,PT Pyridam Farma Tbk,Healthcare,Drug Manufacturers - Specialty & Generic,2090035314688,IDR
+MTDL,MTDL.JK,PT Metrodata Electronics Tbk,Technology,Electronics & Computer Distribution,6199826710528,IDR
+MLPT,MLPT.JK,PT Multipolar Technology Tbk,Technology,Information Technology Services,31875001221120,IDR
+POWR,POWR.JK,PT Cikarang Listrindo Tbk,Utilities,Utilities - Independent Power Producers,11096050106368,IDR
+EMTK,EMTK.JK,PT Elang Mahkota Teknologi Tbk,Communication Services,Broadcasting,29489966874624,IDR
+BUKA,BUKA.JK,PT Bukalapak.com Tbk.,Consumer Cyclical,Internet Retail,9216030932992,IDR
+GOTO,GOTO.JK,PT GoTo Gojek Tokopedia Tbk,Technology,Software - Infrastructure,53100509396992,IDR
+LPKR,LPKR.JK,PT Lippo Karawaci Tbk,Healthcare,Medical Care Facilities,4323516350464,IDR
+BSDE,BSDE.JK,PT Bumi Serpong Damai Tbk,Real Estate,Real Estate - Development,11293233774592,IDR
+CTRA,CTRA.JK,PT Ciputra Development Tbk,Real Estate,Real Estate - Development,10287310700544,IDR
+ADHI,ADHI.JK,PT Adhi Karya (Persero) Tbk,Industrials,Engineering & Construction,1261141360640,IDR
+PTPP,PTPP.JK,PT PP (Persero) Tbk,Industrials,Engineering & Construction,1070064074752,IDR
+WIKA,WIKA.JK,PT Wijaya Karya (Persero) Tbk,Industrials,Engineering & Construction,8133880578048,IDR
+TOTL,TOTL.JK,PT Total Bangun Persada Tbk,Industrials,Engineering & Construction,3529349791744,IDR
+ACST,ACST.JK,PT Acset Indonusa Tbk,Industrials,Engineering & Construction,1343312101376,IDR
