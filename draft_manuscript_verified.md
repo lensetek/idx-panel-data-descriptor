@@ -201,11 +201,11 @@ And the dataset:
 
 ## Acknowledgements
 
-This research was supported by [funding information to be added].
+This research received no external funding.
 
 ## Author Contributions
 
-[To be completed by authors]
+A.K. conceived the study, designed the methodology, collected the data, developed the preprocessing and analysis pipeline, performed the statistical validation, and wrote the manuscript. A.I. contributed to the study design, literature review, data interpretation, and manuscript revision. Both authors reviewed and approved the final manuscript.
 
 ## Competing Interests
 
