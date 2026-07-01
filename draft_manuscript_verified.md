@@ -49,7 +49,7 @@ All acquisition and preprocessing scripts are housed in a GitHub repository at h
 
 ## Data Records
 
-The dataset is deposited on Zenodo (DOI: 10.5281/zenodo.21110404) under a CC-BY 4.0 licence, with source code available at https://github.com/lensetek/idx-panel-data-descriptor. The repository includes:
+The dataset is deposited on Zenodo (https://zenodo.org/records/21110404, DOI: 10.5281/zenodo.21110404) under a CC-BY 4.0 licence, with source code available at https://github.com/lensetek/idx-panel-data-descriptor. The repository includes:
 
 ### Primary Data Files
 
