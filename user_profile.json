@@ -1,0 +1,69 @@
+{
+  "profile_version": "1.0",
+  "last_update_check": "2026-07-01",
+  "last_session_date": "2026-07-01",
+  "preferences": {
+    "research_domain": "pasar modal Indonesia (IDX)",
+    "data_type": "data sekunder (secondary data)",
+    "publication_target": {
+      "primary": "Scientific Data (Nature) - Data Descriptor",
+      "fallback": "Data in Brief (Elsevier)",
+      "strategy": "1 dataset → 2 publikasi (Data Descriptor + Research Article)"
+    },
+    "methodology": {
+      "primary": "Regresi Panel (Fixed Effects, GMM, Panel ECM)",
+      "current_validated": "Pooled OLS + HC3 robust SE",
+      "note": "FE/GMM gagal di v1 karena fundamentals cross-sectional — upgrade ke yearly balance sheet di v2"
+    },
+    "analysis_style": "ekonometrika panel, honest limitations, reproducibility-first",
+    "data_sources": [
+      "Yahoo Finance (yfinance API)",
+      "idx.co.id (Bursa Efek Indonesia)",
+      "www.bi.go.id (Bank Indonesia)",
+      "www.bps.go.id (Badan Pusat Statistik)",
+      "OJK DES (Daftar Efek Syariah)"
+    ],
+    "model_preference": {
+      "use_high_model_for": "data-scientist-analyst, model-evaluator-validator, literature-review-generator",
+      "notify_before_high_model": true,
+      "reject_synthetic_data": true
+    },
+    "language": "Bahasa Indonesia (casual discussion) + English (manuscript)",
+    "writing_style": "akademik formal, honest limitations, gap-based argumentation"
+  },
+  "current_project": {
+    "title": "A Panel Dataset of the Indonesia Stock Exchange: Prices, Fundamentals, and Sharia Classification (2010–2026)",
+    "status": "Pre-submission (minor revision)",
+    "outputs": {
+      "manuscript": "draft_manuscript.md",
+      "peer_review": "peer_review_report.md",
+      "checklist": "PRE_SUBMISSION_CHECKLIST.md",
+      "dataset": "data_acquisition/processed/panel_master.csv",
+      "validation": "data_acquisition/processed/validation_report.md",
+      "literature_review": "data_acquisition/slr/literature_review.md",
+      "synthesis": "data_acquisition/slr/synthesis_report.md"
+    }
+  },
+  "feedback_log": [
+    {
+      "date": "2026-07-01",
+      "feedback": "User memilih regresi panel sebagai metode analisis",
+      "action": "Diterapkan dalam research design"
+    },
+    {
+      "date": "2026-07-01",
+      "feedback": "User menolak synthetic data untuk riset pasar modal",
+      "action": "synthetic-data-generator di-skip permanen untuk riset data sekunder pasar modal"
+    },
+    {
+      "date": "2026-07-01",
+      "feedback": "User minta notifikasi sebelum eksekusi model high",
+      "action": "Diterapkan — notify_before_high_model = true"
+    },
+    {
+      "date": "2026-07-01",
+      "feedback": "User memilih Mode B (Dataset-Driven via Data Descriptor)",
+      "action": "Diterapkan sebagai default untuk riset pasar modal"
+    }
+  ]
+}

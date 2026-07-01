@@ -45,7 +45,7 @@ All acquisition and preprocessing scripts are housed in a GitHub repository at h
 
 ## Data Records
 
-The dataset is deposited on Zenodo (DOI [to be assigned upon publication]) under a CC-BY 4.0 licence, with source code available at https://github.com/lensetek/idx-panel-data-descriptor. The repository includes:
+The dataset is deposited on Zenodo (DOI: 10.5281/zenodo.21110404) under a CC-BY 4.0 licence, with source code available at https://github.com/lensetek/idx-panel-data-descriptor. The repository includes:
 
 ### Primary Data Files
 
@@ -172,11 +172,11 @@ Users should keep in mind that the cross-sectional treatment of fundamentals res
 
 If you use this dataset, please cite both the data descriptor and the deposited record:
 
-> [Authors]. A Panel Dataset of the Indonesia Stock Exchange: Prices, Fundamentals, and Sharia Classification (2010–2026). *Scientific Data*, [volume, year]. doi:[to be assigned]
+> [Authors]. A Panel Dataset of the Indonesia Stock Exchange: Prices, Fundamentals, and Sharia Classification (2010–2026). *Scientific Data*, [volume, year]. doi:10.5281/zenodo.21110404
 
 And the dataset:
 
-> [Authors]. IDX Panel Dataset 2010–2026 [Dataset]. *Zenodo*. doi:[to be assigned]
+> [Authors]. IDX Panel Dataset 2010–2026 [Dataset]. *Zenodo*. doi:10.5281/zenodo.21110404
 
 ## References
 
@@ -213,4 +213,4 @@ The authors declare no competing interests.
 
 ## Data Availability
 
-The dataset generated and analysed during the current study is available in the Zenodo repository, doi:[to be assigned], under a CC-BY 4.0 license. Source code for data acquisition, preprocessing, and validation is available at https://github.com/lensetek/idx-panel-data-descriptor. All data were collected from publicly accessible sources as described in the Methods section.
+The dataset generated and analysed during the current study is available in the Zenodo repository, doi:10.5281/zenodo.21110404, under a CC-BY 4.0 license. Source code for data acquisition, preprocessing, and validation is available at https://github.com/lensetek/idx-panel-data-descriptor. All data were collected from publicly accessible sources as described in the Methods section.
