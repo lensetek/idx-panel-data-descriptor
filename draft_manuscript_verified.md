@@ -2,6 +2,10 @@
 
 ## Abstract
 
+**Keywords:** Indonesia Stock Exchange, panel data, financial dataset, emerging market, Sharia compliance, Tobin's Q
+
+---
+
 This paper introduces a curated panel dataset built from 67 large-cap non-financial firms listed on the Indonesia Stock Exchange (IDX) between 2010 and 2026. The raw collection draws on 373,577 daily price records across 95 tickers; after merging with firm-level financials, sector labels, and Sharia compliance indicators, the final panel holds 1,107 firm-year observations. We ran a pooled OLS specification with HC3-corrected standard errors as a proof-of-concept check on the data structure's econometric usability. Return on assets (p < 0.001), the debt-to-equity ratio (p = 0.040), and equity beta (p < 0.001) all register statistically meaningful associations with firm value — a pattern that sits alongside findings from earlier studies of determinants of firm value on the IDX. A Chow test turns up no sign of a COVID-19 structural break (p = 0.998). The dataset lives on Zenodo under CC-BY 4.0 and ships with a full codebook plus reproducible preprocessing scripts. It plugs a genuine hole: no peer-reviewed, open-access panel data descriptor covering an ASEAN stock exchange currently exists in the scientific record.
 
 ## Background & Summary
