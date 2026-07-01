@@ -41,11 +41,11 @@ We pulled data from the following sources:
 
 ### Code Availability
 
-All acquisition and preprocessing scripts are housed in a GitHub repository (to be deposited at https://github.com/[user]/idx-panel-dataset). The code runs on Python 3.11+ and relies on `yfinance`, `pandas`, `numpy`, `statsmodels`, `linearmodels`, `matplotlib`, and `seaborn`.
+All acquisition and preprocessing scripts are housed in a GitHub repository at https://github.com/lensetek/idx-panel-data-descriptor. The code runs on Python 3.11+ and relies on `yfinance`, `pandas`, `numpy`, `statsmodels`, `linearmodels`, `matplotlib`, and `seaborn`.
 
 ## Data Records
 
-The dataset is deposited on Zenodo (DOI [to be assigned upon publication]) under a CC-BY 4.0 licence. The repository includes:
+The dataset is deposited on Zenodo (DOI [to be assigned upon publication]) under a CC-BY 4.0 licence, with source code available at https://github.com/lensetek/idx-panel-data-descriptor. The repository includes:
 
 ### Primary Data Files
 
@@ -213,4 +213,4 @@ The authors declare no competing interests.
 
 ## Data Availability
 
-The dataset generated and analysed during the current study is available in the Zenodo repository, doi:[to be assigned], under a CC-BY 4.0 license. Source code for data acquisition, preprocessing, and validation is available at https://github.com/[user]/idx-panel-dataset. All data were collected from publicly accessible sources as described in the Methods section.
+The dataset generated and analysed during the current study is available in the Zenodo repository, doi:[to be assigned], under a CC-BY 4.0 license. Source code for data acquisition, preprocessing, and validation is available at https://github.com/lensetek/idx-panel-data-descriptor. All data were collected from publicly accessible sources as described in the Methods section.
