@@ -176,11 +176,11 @@ Users should keep in mind that the cross-sectional treatment of fundamentals res
 
 If you use this dataset, please cite both the data descriptor and the deposited record:
 
-> [Authors]. A Panel Dataset of the Indonesia Stock Exchange: Prices, Fundamentals, and Sharia Classification (2010–2026). *Scientific Data*, [volume, year]. doi:10.5281/zenodo.21110404
+> Kesuma, A. & Ismail, A. A Panel Dataset of the Indonesia Stock Exchange: Prices, Fundamentals, and Sharia Classification (2010–2026). *Scientific Data*, [volume, year]. doi:10.5281/zenodo.21110404
 
 And the dataset:
 
-> [Authors]. IDX Panel Dataset 2010–2026 [Dataset]. *Zenodo*. doi:10.5281/zenodo.21110404
+> Kesuma, A. & Ismail, A. IDX Panel Dataset 2010–2026 [Dataset]. *Zenodo*. doi:10.5281/zenodo.21110404
 
 ## References
 
